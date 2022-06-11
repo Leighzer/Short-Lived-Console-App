@@ -1,1 +1,2 @@
 # Short-Lived-Console-App
+My experiment at coming up with a short running (non-service) console app that uses IHost to benefit(??) from the functionality IHost provides (DI, logging, configuration) etc.
